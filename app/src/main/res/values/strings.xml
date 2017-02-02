@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CitizenSOS</string>
+    <string name="notify_me_when">Notify Me When</string>
+    <string name="near_me">Near Me</string>
+    <string name="take_action">Take Action</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
